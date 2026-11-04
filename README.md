@@ -16,4 +16,4 @@ Estudante do 2º período de **Ciência da Computação** na UniMetrocamp Wyden,
 * 🎯 **Objetivo:** Oportunidades de estágio em desenvolvimento de software onde possa aprender, colaborar em equipa e entregar código limpo e funcional.
 
 📫 **Vamos conectar?**
-* [LinkedIn](https://www.linkedin.com/in/guilherme) *(substitui pelo teu link ajustado)*
+* [LinkedIn](https://www.linkedin.com/in/guilherme-virti
